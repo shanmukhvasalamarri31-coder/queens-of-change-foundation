@@ -14,8 +14,6 @@ A modern responsive NGO landing page created using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Live Demo
-Add your deployed link here.
 
 ## Author
-Your Name
+V Shanmukh
